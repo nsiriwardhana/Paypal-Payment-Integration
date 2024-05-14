@@ -1,0 +1,7 @@
+server:
+  port: 8081
+
+paypal:
+  client-id: ASmCdVAqaAfMNLNMDtgFjsw0HSIayD8AXXk-JYfWw2fW2gaEFLQI4d1NbsRnbuwFBsTLL1_cmnrpYap9
+  client-secret: EH10SbPcQwcwobegQUNJInV4UPw2ePY7SoLoDeoWi2LViAJEIhIEUuzgPm6-SAxsEzfTCZyPhn75V-KI
+  mode: sandbox #use sandbox for testing
